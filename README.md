@@ -57,11 +57,17 @@ dt.predict([[5,6]])
 
 ## Output:
 ![Screenshot 2023-11-11 170219](https://github.com/harish-ragavendra-25/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/114852180/b76ed29c-0198-451b-9834-775b0e136c01)
+
 ![Screenshot 2023-11-11 170214](https://github.com/harish-ragavendra-25/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/114852180/bdad626e-b236-4575-9613-a63fdd0f8be4)
+
 ![Screenshot 2023-11-11 170210](https://github.com/harish-ragavendra-25/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/114852180/f7d1b826-10d0-4439-905c-c35004c7950e)
+
 ![Screenshot 2023-11-11 170206](https://github.com/harish-ragavendra-25/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/114852180/91e4e187-44dd-4a86-bf1a-6f6872f99bf2)
+
 ![Screenshot 2023-11-11 170202](https://github.com/harish-ragavendra-25/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/114852180/042dc4a6-77c0-42d1-8dd0-7e603f48c926)
+
 ![Screenshot 2023-11-11 170156](https://github.com/harish-ragavendra-25/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/114852180/d0febd40-cb73-43bb-aa7a-e40022392651)
+
 ![Screenshot 2023-11-11 170150](https://github.com/harish-ragavendra-25/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/114852180/eea3ad61-31fe-42de-a0db-beba5b11af40)
 
 ## Result:
